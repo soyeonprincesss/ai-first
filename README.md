@@ -1,3 +1,5 @@
+ㅂㅂㅂㅂㅂ
+
 drop database if exists univDB;
 
 -- 교재 5장 스키마 생성
