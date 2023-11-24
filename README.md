@@ -1,4 +1,4 @@
-
+멍꼬 
 
 drop database if exists univDB;
 
