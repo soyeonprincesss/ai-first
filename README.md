@@ -1,4 +1,4 @@
-ㅁㅁㅁ
+a
 
 drop database if exists univDB;
 
