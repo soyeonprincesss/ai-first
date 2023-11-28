@@ -1,3 +1,16 @@
+웹프 1128
+---------------------------------------------
+create database univdb;
+
+create table board {
+	id	int		not null	frimary key auto_increment,
+	name	varchar(20)	not null,
+ 	passwd	varchar(20)	not null,
+  	title	varchar(100)	null,
+	email	varchar(30)	null,
+ 	content	text		null,
+};
+---------------------------------------------
 wwww
 
 drop database if exists univDB;
