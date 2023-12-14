@@ -18,6 +18,7 @@ drop database if exists univDB;
 CREATE DATABASE `univDB` 
   DEFAULT CHARACTER SET utf8mb4;
 
+
 -- 사용할 데이터베이스 선택
 use univDB;
 
