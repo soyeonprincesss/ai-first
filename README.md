@@ -11,7 +11,6 @@ create table board {
  	content	text		null,
 };
 ---------------------------------------------
-wwww
 
 drop database if exists univDB;
 
